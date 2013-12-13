@@ -10,3 +10,15 @@ MetaFramework for Desktop Apps.
 - Single file standalone executable compiled output
 - Just like [Node-webkit](https://github.com/rogerwang/node-webkit "Node-webkit") but using Python instead of JavaScript
 - Inspired by [WebUI](https://github.com/Widdershin/WebUI/ "WebUI")
+
+
+Licence:
+--------
+
+- The MetaFramework code is licenced under GPL 3 + Anti-Troll Agreement
+- The standalone executable compiled output are licenced under MIT/BSD
+
+Anti-Troll Agreement: "You can not complain, but you can patch"
+
+- By just using the software you agree with the Anti-Troll Agreement.
+- It can be represented in short form as "dont complain, patch".
