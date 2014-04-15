@@ -5,7 +5,7 @@ websktop
 
 MetaFramework for Desktop Apps.
 
-- Using PyQt + Importd + Bootstrap + Angular + Nuitka.
+- Using PyQt + Importd + AngularStrap + Nuitka.
 - Python3 compatible.
 - PyQt5 Compatible.
 - Twitter Bootstrap 3 compatible.
