@@ -56,6 +56,12 @@ python3 example.py
 - [QDarkStyleSheet *(CSS base for Qt5)*](https://github.com/ColinDuquesnoy/QDarkStyleSheet#qdarkstylesheet) `sudo pip3 install qdarkstyle`
 
 
+# Files Description
+- `example.py` Hello World Example App.
+- `/templates/` HTML Templates for Hello World App.
+- `websktop.py` The only file actually needed, where the magic happens.
+
+
 # Coding Style Guide:
 
 - Lint, [PEP-8](https://www.python.org/dev/peps/pep-0008), [PEP-257](https://www.python.org/dev/peps/pep-0257), [PyLama](https://github.com/klen/pylama#-pylama), [iSort](https://github.com/timothycrosley/isort) must Pass Ok. `pip install pep8 pep257 pylama isort`
