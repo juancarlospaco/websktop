@@ -29,8 +29,13 @@ websktop
 **PIP:** *(Recommended!)*
 ```
 sudo pip3 install importd
+
+git clone https://github.com/juancarlospaco/websktop.git
+cd websktop
+
+python3 example.py
 ```
-- TODO!!!
+- TODO: More info!!!.
 
 
 # Why?:
