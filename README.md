@@ -62,6 +62,12 @@ python3 example.py
 - `websktop.py` The only file actually needed, where the magic happens.
 
 
+# References
+- http://reinout.vanrees.org/weblog/2015/06/02/09-django-desktop.html *(Too Complex, Not Code, just a comment)*
+- https://github.com/tominsam/djangokit *(Mac-Only, too Complex)*
+- https://github.com/scaphilo/dbuilder#dbuilder *(Windows-Only, too Complex, Dead)*
+
+
 # Coding Style Guide:
 
 - Lint, [PEP-8](https://www.python.org/dev/peps/pep-0008), [PEP-257](https://www.python.org/dev/peps/pep-0257), [PyLama](https://github.com/klen/pylama#-pylama), [iSort](https://github.com/timothycrosley/isort) must Pass Ok. `pip install pep8 pep257 pylama isort`
