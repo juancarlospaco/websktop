@@ -12,9 +12,10 @@ websktop
 
 **MetaFramework for Desktop Apps.**
 
-- Using Python3 + Qt5 + Importd + Django.
+- Using [Python3](https://www.python.org) + [Qt5](http://qt.io) + [Django](https://www.djangoproject.com/).
 - [Material Design Lite](http://www.getmdl.io) compatible.
 - [Twitter Bootstrap 3+](http://getbootstrap.com) compatible.
+- [Brython 3](brython.info) compatible.
 - Single file standalone executable output is possible via [`*.PYZ` for Python3](https://www.python.org/dev/peps/pep-0441/).
 - Just like [Node-webkit](https://github.com/rogerwang/node-webkit "Node-webkit") but using Python instead of JavaScript.
 - Inspired by [WebUI](https://github.com/Widdershin/WebUI/ "WebUI").
