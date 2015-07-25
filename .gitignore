@@ -34,3 +34,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+
+# Custom
+.directory
+secret.txt
+db.sqlite
+db.sqlite3
